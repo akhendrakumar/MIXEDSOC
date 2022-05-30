@@ -38,6 +38,8 @@ FPGA IMPLEMENTATION
 ![image](https://user-images.githubusercontent.com/104430712/170983423-526e1751-7700-4aa1-aa99-e6c076b90908.png)
 ![image](https://user-images.githubusercontent.com/104430712/170983441-11974971-e79f-473b-9ff6-cc174361faf0.png)
 ![image](https://user-images.githubusercontent.com/104430712/170983459-16e91c86-a7d2-444b-97f2-51fa9687cec7.png)
+![image](https://user-images.githubusercontent.com/104430712/170984320-76a2be02-a031-4af2-ad81-ae51e4b047a4.png)
+
 ![image](https://user-images.githubusercontent.com/104430712/170983478-57f88a7b-2e85-49e3-86b3-d026283cf106.png)
 ![image](https://user-images.githubusercontent.com/104430712/170983492-12ec639f-e557-4a1d-ba8a-5b764e647c7c.png)
 ![image](https://user-images.githubusercontent.com/104430712/170983513-76bbe608-5d18-4083-b150-5d444a0d012f.png)
